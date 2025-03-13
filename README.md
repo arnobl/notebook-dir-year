@@ -25,7 +25,7 @@ My current folder layout (one can adapt), is:
 
 ```
 2024-2025
-   examens.ipnb
+   examens.ipynb
    examens/
        The student lists CSV files
        ranking-prev-year.csv % Provides the ranking of the students during their previous year, exported from Pegase (export each exam)
