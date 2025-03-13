@@ -39,6 +39,8 @@ My current folder layout (one can adapt), is:
 ../../../photos/             % The pictures of each student (from the the Ksaar app). Used to build the individual tables.
 ```
 
+The folder `examens` in this repository contain template files for `ranking-prev-year.csv` and `specificities.csv`.
+
 ## Current issues
 
 The CSV files of exams can contain non-numerical values (e.g. 'ABS INJ') that prevent the correct loading of a CSV file. Currently, you can to manually remove those tokens from the files.
