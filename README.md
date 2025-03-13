@@ -20,6 +20,8 @@ To render the tables correctly, I recommend the use of VSCode with the following
 
 To make the notebook working with your teaching year, the main cell to edit is untitled: *Year specific variables*. It contains the description of the two semesters and some additional details to adapt.
 
+If the name of an exam change between two years, the notebook will not be able to reuse the marks of the previous year. Your have to add them manually using the variables `other_marks_semester1` and `other_marks_semester2`. Use these variables to add or erase a mark. A mark of 30 means that the student must not do this exam (and the mark is not considered in the means).
+
 The notebook reads CSV files of the exams, the student lists, and additional information.
 My current folder layout (one can adapt), is:
 
