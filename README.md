@@ -2,7 +2,7 @@
 
 ## Installation
 
-The notebook requires Python 3:
+The notebook requires Python 3 (tested using Python 3.12, may not work using 3.13):
 `python -V` to check your version
 
 
