@@ -8,7 +8,7 @@ The notebook requires Python 3 (tested using Python 3.12, may not work using 3.1
 
 Python packages to install:
 
-`pip install ipykernel matplotlib pandas numpy pandas-xlsx-tables matplotlib-stubs scipy-stubs pyright`
+`pip install ipykernel matplotlib pandas pandas-stubs numpy pandas-xlsx-tables matplotlib-stubs scipy-stubs pyright`
 
 
 To render the tables correctly, I recommend the use of VSCode with the following plugins:
