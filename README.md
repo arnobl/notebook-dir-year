@@ -39,6 +39,8 @@ My current folder layout (one can adapt), is:
 ../../../photos/             % The pictures of each student (from the the Ksaar app). Used to build the individual tables.
 ```
 
+To get the CSV files of the student lists for each semester, go on Pegase (the `coc` application), select 'semestre' in 'Type d'objet'.
+
 The folder `examens` in this repository contain template files for `ranking-prev-year.csv` and `specificities.csv`.
 
 ## Current issues
