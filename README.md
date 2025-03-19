@@ -47,3 +47,8 @@ The folder `examens` in this repository contain template files for `ranking-prev
 
 The CSV files of exams can contain non-numerical values (e.g. 'ABS INJ') that prevent the correct loading of a CSV file. Currently, you can to manually remove those tokens from the files.
 
+
+Commun Python installation issues:
+- if you have a message like '*no module named pip*', try: `python -m ensurepip --default-pip`
+- if you have to switch between two versions of python, use `alternatives` as explained here: https://linuxconfig.org/how-to-switch-between-python-versions-on-fedora-linux
+
