@@ -1,5 +1,11 @@
 #  A notebook for managing a teaching year
 
+This notebook manages students' marks on two semesters.
+It is generic so that ones can define their own teaching modules, exams, etc. to compute statistics per student.
+
+![](pics/example.png)
+
+
 ## Installation
 
 The notebook requires Python 3 (tested using Python 3.12, may not work using 3.13):
